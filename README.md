@@ -1,4 +1,4 @@
-# 🧠 Workshop de NLP & MLOps — Do Modelo à Produção
+# 🧠 Workshop de NLP & MLOps — Do Modelo à Produção -TESTANDO
 
 📅 **23 a 25 de fevereiro de 2026**
 📍 CEIA & ACKIT
